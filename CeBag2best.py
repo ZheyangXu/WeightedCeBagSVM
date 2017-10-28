@@ -1,11 +1,9 @@
 # coding=utf-8
 import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
-from mpl_toolkits.mplot3d import axes3d
 
 import time
-import os
+ os
 
 from sklearn import datasets
 from sklearn.svm import SVC
