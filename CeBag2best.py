@@ -3,7 +3,6 @@ import numpy as np
 import pandas as pd
 
 import time
- os
 
 from sklearn import datasets
 from sklearn.svm import SVC
